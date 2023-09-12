@@ -1,0 +1,88 @@
+.dark-button {
+  width: 40% !important;
+  border-radius: 38px !important;
+  border: 1px solid black !important;
+  height: 3% !important;
+}
+.light-button {
+  width: 40% !important;
+  border-radius: 38px !important;
+  border: 1px solid rgb(255, 255, 255) !important;
+  height: 3% !important;
+}
+.login-button {
+  width: 5% !important;
+  height: 5% !important;
+  border-radius: 38px !important;
+  border: 1px solid white !important;
+}
+.text-finance {
+  font-size: 112px !important;
+  color: black !important;
+  font-weight: 700;
+  font-style: bold;
+}
+.text-finance-And {
+  margin-top: -60px !important;
+}
+.increase-text {
+  font-size: 48px !important;
+  font-weight: 600;
+  color: #00000066 !important;
+}
+.increase-tex {
+  font-size: 48px !important;
+  font-weight: 600;
+  color: #ffffff66 !important;
+}
+.wealth-text {
+  font-size: 48px !important;
+  font-weight: 600;
+  color: #00000066 !important;
+  margin-top: -30px !important;
+}
+.wealth-tex {
+  font-size: 48px !important;
+  font-weight: 600;
+  color: FFFFFF66 !important;
+  margin-top: -30px !important;
+}
+.top {
+  margin-top: 20% !important;
+}
+.image-width {
+  width: 80% !important;
+  margin-left: -220px !important;
+  margin-top: 50px !important;
+}
+.app-width {
+  width: 60% !important;
+  margin-left: 145px !important;
+  margin-top: -650px !important;
+  height: 65% !important;
+}
+.app-width-dark {
+  width: 60% !important;
+  margin-left: 145px !important;
+  margin-top: -675px !important;
+  height: 65% !important;
+}
+.svg-pics {
+  margin-left: -176% !important;
+  margin-top: 22% !important;
+}
+.nav-style {
+  padding: 46px !important;
+}
+.nav-style-dark {
+  padding: 41px !important;
+}
+.svg-topp {
+  margin-top: -65% !important;
+  margin-left: -4% !important;
+}
+.box-svg {
+  width: 55% !important;
+  margin-top: 100px !important;
+  margin-left: -50px !important;
+}
